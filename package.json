@@ -1,11 +1,19 @@
 {
   "name": "linebot-koa-middleware",
   "version": "0.0.1",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Dca",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dca/linebot-koa-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dca/linebot-koa-middleware/issues"
+  },
+  "homepage": "https://github.com/dca/linebot-koa-middleware#readme",
+  "description": ""
 }
